@@ -1,0 +1,37 @@
+
+Recommendation Systems: 4 Machine Learning Trends:
+
+In this article, the author talks about 4 machine learning trends towards the recommendation systems:
+
+1) Use of content and collaborative filtering:
+	For this trend, the author explains differences between content filtering and collaborative filtering:
+    
+       "Content based filtering works from baseline of an existing user profile.....collaborative filtering generates recommendations based on similar users, or activity around similar groups....".
+       For example an algorithm using content based filtering might recommend similar color or size to the user; whereas the one using collaborative might recommend relevant items to the user.
+
+2)  Shift from statistical modeling to deep learning-based modelling:
+         
+           According to the author the biggest reason for shift to deep learning based modelling is performance (...which generate more accurate correlations and subsequent predictions for business task....".
+             a) Better representation of underlying model, algorithm.
+             b) better evaluations.
+             c) better optimizations.
+           lastly ...."deep neural networks are able to scale effectively with large datasets"....
+
+3) Deep Learning Recommendation Models (DLRM)
+
+   The model allows users to benchmark:
+     a) "The speed at which the model performs"
+     b) "how various numerical techniques affect network accuracy"
+
+    grabbing the system and creating peformance matrix out of it.
+
+4) Improving recommendation performance with Neural Magic:
+        Neural Magic is redefining machine learning performance on a CPU"
+
+    According to the author clients/programmers are faced with 3 tradeoffs to achieve results:
+         1) reduce model size
+         2) Reduce batch size
+         3) reduce accuracy
+    and according to the author, Neural Magic addresses these challenges by reducing the amount of computation, "accelerating memory bound processes and running larger models with larger inputs to improve accuracy".
+
+Source: https://medium.com/neuralmagic/recommendation-systems-4-machine-learning-trends-90ad3f6c1744
